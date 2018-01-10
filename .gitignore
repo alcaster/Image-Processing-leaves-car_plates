@@ -1,0 +1,7 @@
+# Catche etc.
+.idea/
+.ipynb_checkpoints/
+
+# Data
+data/
+
